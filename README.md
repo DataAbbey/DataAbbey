@@ -1,6 +1,6 @@
 ### Hi, I'm Abbey 👋
 
-<br> From chaos to context: turning unstructured data into options leaders can act on. <br>
+<br> Chaos to context: turning unstructured data into options leaders can act on. <br>
 **Domain:** eCommerce · Product · Supply Chain<br>
 **End-to-End Stack:** Snowflake · dbt · Sigma · Omni · Power BI
 
